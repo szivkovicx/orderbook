@@ -21,5 +21,7 @@ Limit order book ( LOB ) is an record of all buy and sell limit orders being cur
 ## Resources
 
 [1. Investopedia](https://www.investopedia.com/terms/l/limitorderbook.asp)
+
 [2. Wikipedia](https://en.wikipedia.org/wiki/Central_limit_order_book)
+
 [3. UCLA](https://www.math.ucla.edu/~mason/papers/gould-qf-final.pdf)
